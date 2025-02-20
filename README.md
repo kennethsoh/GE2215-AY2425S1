@@ -15,5 +15,13 @@ My collection of notes for NUS GE2215 Introduction to GIS, taught in AY2425 Seme
 [Lecture 11](Lecture%2011.pdf)  
 [Lecture 13](Lecture%2013.pdf)  
 
+#### Lab Notes
+[Lab 1](Lab1.pdf)   |   [Lab 1 Feedback](Lab1_Feedback.pdf)   
+[Lab 2](Lab2.pdf)   |   [Lab 2 Feedback](Lab2_Feedback.pdf)    
+[Lab 3](Lab3.pdf)   |   [Lab 3 Feedback](Lab3_Feedback.pdf)   
+[Lab 4](Lab4.pdf)   |   No Feedback Released  
+[Lab 5](Lab5.pdf)   |   No Feedback Released     
+
+
 #### Study Material
 [ChatGPT Study Helper](https://chatgpt.com/g/g-673352c4f8dc81908baefb19f1bec4c8-ge2215-study-helper)
